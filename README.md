@@ -1,6 +1,6 @@
-# Beginning Firebase for Android: Materials
+# Cloud Firestore on Android - Getting Started: Materials
 
-This repo contains all the downloadable materials and projects associated with the **[Beginning Firebase for Android](https://www.raywenderlich.com/22246944-cloud-firestore-on-android-getting-started)** from [raywenderlich.com](https://www.raywenderlich.com).
+This repo contains all the downloadable materials and projects associated with the **[Cloud Firestore on Android - Getting Started](https://www.raywenderlich.com/22246944-cloud-firestore-on-android-getting-started)** from [raywenderlich.com](https://www.raywenderlich.com).
 
 Each edition has its own branch, named `versions/[VERSION]`. The default branch for this repo is for the most recent edition.
 
